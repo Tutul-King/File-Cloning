@@ -1,5 +1,3 @@
-import os 
-os.system("pkg install espeak")
 import os, platform, time, sys
 def xoss(z):
     for e in z + '\n':
