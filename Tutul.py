@@ -1,3 +1,5 @@
+import os 
+os.system("pkg install espeak")
 import os, platform, time, sys
 def xoss(z):
     for e in z + '\n':
@@ -11,5 +13,5 @@ time.sleep(3)
 xoss('\033[0;93m JOIN MY SCRIPT GIFT GROUP')
 time.sleep(3)
 os.system('xdg-open https://facebook.com/groups/554714119911648/')
-import Sex
-Sex.main()
+import SEXY
+SEXY.main()
