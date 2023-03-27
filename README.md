@@ -8,4 +8,4 @@ git clone https://github.com/Tutul-King/File-Cloning
 
 cd File-Cloning
 
-python Sexy.py
+python Op.py
