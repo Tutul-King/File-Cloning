@@ -1,7 +1,6 @@
 import os
 os.system("pkg install espeak")
 os.system("clear")
-os.system('xdg-open https://www.facebook.com/groups/554714119911648/')
 os.system('espeak -a 300 " Welcome,   to,  Tutul,  king,  Tools,"')
 logo=("""
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
