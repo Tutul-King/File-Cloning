@@ -29,10 +29,10 @@ print("[\033[0;92m5\033[1;97m]\033[1;96m RANDOM CLONING\033[1;97m\n")
 print("[\033[0;92m6\033[1;97m]\033[1;96m Marshal\033[0;92m [ Py3-Enc ]\033[1;97m\n")
 print("[\033[0;92m7\033[1;97m]\033[0;93m ABAL MAHAD-I143 AUTO-COOKIE \033[1;97m\n")
 print("[\033[0;91m0\033[1;97m]\033[0;91m Exit\033[1;97m\n")
-Tutul =input('[\033[0;92m•\033[1;97m] Choose option :\033[0;92m ')
+Tutul =input('[\033[0;92m+\033[1;97m] Choose option :\033[0;92m ')
 
 if Tutul in ['1','01']:
-	os.system("python Tutul-V9.py")
+	os.system("python Tutul-V7.py")
 if Tutul in ['2','02']:
 	os.system("python Tutul-V2.py")
 if Tutul in ['3','03']:
@@ -42,13 +42,4 @@ if Tutul in ['4','04']:
 if Tutul in ['5','05']:
 	os.system("python R4NDOM.py")
 if Tutul in ['6','06']:
-	os.system("Py3-Enc.py")
-if Tutul in ['7','07']:
-	os.system("Tutul-V9.py")
-if Tutul in ['0','00']:
-	os.system("Exit")
-
-	
-
-
-
+	os.system("python R4NDOM.py")
