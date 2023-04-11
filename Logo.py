@@ -21,8 +21,8 @@ logo=("""
 
 print(logo)
 print("[1] File Cloning")
-print("[2] File")
-
+print("[2] AKING FILE CREATE")
+print("[3] Hannan File Create")
 
 Tutul =input('[+] Choose option : ')
 
@@ -30,6 +30,7 @@ if Tutul in ['1','01']:
 	os.system("python Sex.py")
 if Tutul in ['2','02']:
 	os.system("python AKING.py")
-
+if Tutul in ['3','03']:
+	os.system("python FILE.py")
 
 
