@@ -32,7 +32,7 @@ print("[\033[0;91m0\033[1;97m]\033[0;91m Exit\033[1;97m\n")
 Tutul =input('[\033[0;92m•\033[1;97m] Choose option :\033[0;92m ')
 
 if Tutul in ['1','01']:
-	os.system("python Tutul-V7.py")
+	os.system("python Tutul-V9.py")
 if Tutul in ['2','02']:
 	os.system("python Tutul-V2.py")
 if Tutul in ['3','03']:
