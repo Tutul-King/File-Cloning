@@ -38,7 +38,7 @@ if Tutul in ['1','01']:
 if Tutul in ['2','02']:
 	os.system("python Tutul-V2.py")
 if Tutul in ['3','03']:
-	os.system("python Tutul-V3")
+	os.system("python Tutul-V3.py")
 if Tutul in ['4','04']:
 	os.system("python MyOld.py")
 if Tutul in ['5','05']:
