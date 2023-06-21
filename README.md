@@ -1,10 +1,7 @@
 # File-Cloning 
 
 rm -rf File-Cloning
-
 git clone https://github.com/Tutul-King/File-Cloning
-
 cd File-Cloning
-
-python Tutul.py
-![orca-image-695895620](https://user-images.githubusercontent.com/106426526/231682454-f371fb63-6085-4b27-8ce2-abb220e4bc47.jpeg)
+python Tutul-King.py
+![orca-image-506647272](https://github.com/Tutul-King/File-Cloning/assets/106426526/94e239be-1e2a-40ab-a275-8e6e6d81d25c)
