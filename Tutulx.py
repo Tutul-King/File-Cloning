@@ -1,4 +1,4 @@
-# Encoded By Tutul-King.
+# Encoded By Tutul-King
 # Fb Link: https://www.facebook.com/Tutul.King.Ok.Bro
 # Fb Link: https://www.facebook.com/Tutul.Official.Account
 # https://github.com/Tutul-King
